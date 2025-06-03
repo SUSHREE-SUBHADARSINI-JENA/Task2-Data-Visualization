@@ -22,7 +22,7 @@ To add the screenshot you just uploaded to your `README.md`, follow these steps:
 3. **Edit `README.md` and add this Markdown line:**
 
    ```markdown
-   ![Power BI Dashboard](To add the screenshot you just uploaded to your `README.md`, follow these steps:
+   ![Power BI Dashboard](To add the screenshot you just uploaded to your `README.md`:
 
 ---
 
