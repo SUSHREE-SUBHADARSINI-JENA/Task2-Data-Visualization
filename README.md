@@ -3,7 +3,7 @@ Interactive dashboard showcasing key insights through clean visuals, emphasizing
 To add the screenshot you just uploaded to your `README.md`, follow these steps:
 
 ---
-
+![Power BI Dashboard](https://github.com/SUSHREE-SUBHADARSINI-JENA/Task2-Data-Visualization/blob/main/dashboard.png?raw=true)
 ### ✅ **Step-by-step to display this image:**
 
 1. **Rename the image file** (optional, for clarity):
