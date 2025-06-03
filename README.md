@@ -9,10 +9,6 @@ An interactive and insight-rich Power BI dashboard built to explore real-world s
 
 📌 "Numbers tell a story—this dashboard makes sure it's one worth listening to."
 
-📸 Dashboard Snapshot
-
-A single glance reveals what’s selling, how customers are paying, and when demand surges—no filters needed.
-
 🔍 Project Highlights
 Purpose:
 To identify sales trends, customer preferences, and seasonal patterns in a coffee shop business using visual analytics.
